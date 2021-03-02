@@ -5,7 +5,7 @@ const AboutSection = ()=>{
         <div>
             <div className='title'>
                 <h2>We work to make</h2>
-                <h>your <span>dreams</span> come</h1>
+                <h1>your <span>dreams</span> come</h1>
                 <h2>true.</h2>
                 <div className='contact'>
                     <p>Contact us for any photography or videography ideas that you have. We have professionals with amazing skills.</p>
